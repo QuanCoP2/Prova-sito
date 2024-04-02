@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+}
+
+
+.container {
+    padding-right: 50pt;
+    padding-left: 50pt;
+}
+
+
+.immagine {
+    display:block;
+    width: 100%;
+    cursor: pointer;
+}
+
+#frame1 {
+    position: relative;
+    /* top: 200px;
+    left: 50px;  */
+    width: 400px;
+    height: 300px;
+    border: 2px solid #780000;
+}
+
+@media screen and (max-width: 769px) {
+
+    #frame1 {
+        width: 100%;
+    }
+
+
+}

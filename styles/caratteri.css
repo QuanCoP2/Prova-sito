@@ -1,0 +1,26 @@
+.spacer {
+    margin-bottom: 30pt; /* Adjust as needed */
+}
+.despacer {
+    margin-bottom: -10pt; /* Adjust as needed */
+}
+
+.padd {
+    padding-left: 70pt;
+}
+
+h1 {
+    /* margin-top: -5pt;
+    margin-bottom: 30pt;
+    padding-right: 70px;
+    padding-left: 70px; */
+    font-family: 'Courier New', Courier, monospace;
+    color: #780000;
+    font-size: 26pt;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    color: #003049;
+    font-size: 16pt;
+}
